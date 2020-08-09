@@ -1,1 +1,5 @@
-Hello！I'm config-dev
+data:
+  env: config-dev
+  user:
+    username: user
+    passowrd: 123456

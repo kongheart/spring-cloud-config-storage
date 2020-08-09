@@ -1,1 +1,5 @@
-Hello World！I'm config-prod
+data:
+  env: config-prod
+  user:
+    username: admin
+    passowrd: 654321
