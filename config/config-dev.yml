@@ -2,4 +2,4 @@ data:
   env: config-dev
   user:
     username: user
-    passowrd: 123456
+    password: 123456
