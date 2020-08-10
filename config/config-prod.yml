@@ -2,4 +2,4 @@ data:
   env: config-prod
   user:
     username: admin
-    password: 123456
+    password: 66666
